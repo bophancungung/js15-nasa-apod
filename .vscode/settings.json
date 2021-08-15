@@ -1,0 +1,8 @@
+{
+  "editor.padding.bottom": 10,
+  "editor.lineHeight": 1.5,
+  "editor.fontSize": 18,
+  "editor.cursorBlinking": "expand",
+  "editor.fontFamily": "FuraMono NF, monospace, Consolas",
+  "editor.letterSpacing": 1
+}
